@@ -1,2 +1,9 @@
 scikit-learn
--e .
+ipykernel
+numpy
+pandas
+seaborn
+matplotlib
+catboost
+xgboost
+# -e .
